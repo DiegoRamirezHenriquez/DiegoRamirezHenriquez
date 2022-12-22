@@ -1,7 +1,9 @@
 <h1 align="center">Hola👋, Me llamo Diego Ramirez</h1>
 <h3 align="center">Soy estudiante de programacion</h3>
 
-- 💬 Ask me about **html, css, c#, javascript**
+- 🌱 I’m currently learning **JavaScript**
+
+- 💬 Ask me about **Html, Css, C#, Php**
 
 - 📫 How to reach me **diegoramirezhenriquez@gmail.com**
 
