@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Html, Css, C#, Php**
+- 💬 Ask me about **Html, Css, C#**
 
 - 📫 How to reach me **diegoramirezhenriquez@gmail.com**
 
