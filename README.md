@@ -50,10 +50,3 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 📈 Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoramirezhenriquez&show_icons=true&locale=es" alt="GitHub Stats" />
-</p>
